@@ -5,4 +5,4 @@ This project tracks the creation of a blog post around food waste in London, whi
 -	Visualising treatment solutions implemented by London boroughs and volumes treated by each boroughs (source: me !)
 -	Listing the pros and cons of the #1 solution adopted by most councils (i.e. anaerobic digestion/in-vessel composting)  (source: academic and non-academic sources)
 
-This post would be illustrated by data visualisations developed in Python
+This post is illustrated by data visualisations developed in Python
