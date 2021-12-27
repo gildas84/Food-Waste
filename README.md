@@ -1,4 +1,4 @@
-# Food-Waste
+# Food-Waste in London: volumes and treatment
 This project tracks the creation of a blog post around food waste in London, which would aim at:
 -	Identifying food waste as a global and a local issue and spread across the whole food supply chain (source:FAO & Courtauld report)
 -	Identifying solutions implemented by London boroughs (source: Websites from boroughs)
